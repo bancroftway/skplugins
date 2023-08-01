@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Host": {
+    "CORS": "*"
+  },
+  "Values": {
+    "apiKey": "xxxx",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated"
+  }
+}
